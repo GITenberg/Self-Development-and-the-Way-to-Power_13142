@@ -1,0 +1,32 @@
+_repo: Self-Development-and-the-Way-to-Power_13142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, L. W. (Louis William)
+    alias: Rogers, Louis William
+    birthdate: 1859
+    deathdate: 1953
+    gutenberg_agent_id: '4861'
+    url: http://www.gutenberg.org/2009/agents/4861
+description: It is the natural right of every human being to be happy - to escape
+  all the miseries of life. Happiness is the normal condition, as natural as the landscapes
+  and the seasons. It is unnatural to suffer and it is only because of our ignorance
+  that we do suffer. Happiness is the product of wisdom. To attain perfect wisdom,
+  to comprehend fully the purpose of life, to realize completely the relationship
+  of human beings to each other, is to put an end to all suffering ...
+gutenberg_issued: '2004-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+title: Self-Development and the Way to Power
+url: http://www.gutenberg.org/ebooks/13142
